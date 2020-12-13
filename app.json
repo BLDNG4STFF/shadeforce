@@ -1,0 +1,12 @@
+{
+  "name": "shadeforce",
+  "displayName": "shadeforce",
+  "expo": {
+    "name": "shadeforce",
+    "slug": "shadeforce",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
